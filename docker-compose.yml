@@ -1,0 +1,5 @@
+services:
+  p4p:
+    build: .
+    volumes:
+      - .:/src/
